@@ -17,13 +17,13 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Master in Biomedical Science (MBiomed)"
+  course = "MBiomed"
   institution = "Faculty of Medicine, University of Indonesia"
   year = 2011
 
 [[education.courses]]
-  course = "BSc in Biology"
-  institution = "Bandung Institute of Technology"
+  course = "BSc"
+  institution = "Biology, Bandung Institute of Technology"
   year = 2009
  
 +++
