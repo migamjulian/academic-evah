@@ -30,6 +30,6 @@ weight = 5
 
 # Biography
 
-Evah Luviah is research assistant at the Indonesian Medical Education and Research Institute (IMERI), Cluster Stem Cell and Tissue Engineering Research Center (SCTE-RC).
+Evah Luviah is a research assistant at the Indonesian Medical Education and Research Institute (IMERI), Cluster Stem Cell and Tissue Engineering Research Center (SCTE-RC).
 
 
