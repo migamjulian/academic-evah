@@ -102,7 +102,7 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 1
   map_api_key = ""
-  latitude = "-6.194694, "
+  latitude = "-6.194694"
   longitude = "106.848744"
   zoom = 15
 
